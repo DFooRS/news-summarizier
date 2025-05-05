@@ -1,0 +1,14 @@
+asyncio==3.4.3
+DateTime==5.5
+psycopg2-binary==2.9.10
+pyaes==1.6.1
+pyasn1==0.6.1
+python-dotenv==1.1.0
+pytz==2025.2
+rsa==4.9.1
+setuptools==80.3.0
+SQLAlchemy==2.0.40
+Telethon==1.40.0
+typing==3.7.4.3
+typing_extensions==4.13.2
+zope.interface==7.2
